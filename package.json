@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "handlebars": "^4.1.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5",
+    "sequel": "^0.3.10",
+    "sequelize": "^5.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturdy75/burger.git"
+  },
+  "author": "Sturdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sturdy75/burger/issues"
+  },
+  "homepage": "https://github.com/sturdy75/burger#readme"
+}
